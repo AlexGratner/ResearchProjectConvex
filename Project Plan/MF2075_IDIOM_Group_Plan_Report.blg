@@ -1,5 +1,16 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: MF2075_IDIOM_Group_Plan_Report.aux
-I found no \citation commands---while reading file MF2075_IDIOM_Group_Plan_Report.aux
-I found no \bibdata command---while reading file MF2075_IDIOM_Group_Plan_Report.aux
-I found no \bibstyle command---while reading file MF2075_IDIOM_Group_Plan_Report.aux
+The style file: ieeetr.bst
+Database file #1: ./Contents/References/references.bib
+You're missing a field part---line 28 of file ./Contents/References/references.bib
+ :   number  = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 48 of file ./Contents/References/references.bib
+ :   number  = 
+ :             ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 230 of file ./Contents/References/references.bib
+ :   journal = 
+ :             ,
+I'm skipping whatever remains of this entry
 (There were 3 error messages)

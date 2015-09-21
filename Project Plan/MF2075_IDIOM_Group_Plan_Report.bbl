@@ -1,0 +1,33 @@
+\begin{thebibliography}{1}
+
+\bibitem{VDI}
+V.~2206, {\em Design methodology for mechatronic systems}.
+\newblock Dusseldorf: VDI-Verlag, 2004.
+
+\bibitem{Ulrich}
+K.~T. Ulrich and S.~D. Eppinger, {\em Product design and development}.
+\newblock New York: McGraw-Hill/Irwin, 5th~ed., 2011.
+
+\bibitem{Holistic}
+D.~Malmquist, D.~Frede, and JanWikander, ``Holistic design methodology for
+  mechatronic systems,'' {\em Journal of Systems and Control Engineering},
+  vol.~228, 2014.
+
+\bibitem{Roos}
+F.~Roos, {\em Integrated Design of Mechatronic Servo Systems}.
+\newblock PhD thesis, KTH Royal Institute of Technology, 2007.
+
+\bibitem{Nongradient}
+W.~Hare, J.~Nutini, and S.~Tesfamariam, ``A survey of non-gradient optimization
+  methods in structural engineering,'' {\em Advances in Engineering Software},
+  vol.~59, 2013.
+
+\bibitem{Convex}
+S.~Boyd and L.~Vandenberghe, {\em Convex Optimization}.
+\newblock New York: Cambridge University Press, 1st~ed., 2004.
+
+\bibitem{CVXtool}
+M.~C. Grant and S.~Boyd, {\em The CVX Users’ Guide}.
+\newblock CVX Research, Inc., 2.1~ed., 2015.
+
+\end{thebibliography}

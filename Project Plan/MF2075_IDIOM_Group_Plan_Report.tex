@@ -23,11 +23,14 @@
 
 \usepackage{graphicx} % Required for including pictures
 
+\usepackage[utf8]{inputenc}
+
 \usepackage{float} % Allows putting an [H] in \begin{figure} to specify the exact location of the figure
-\usepackage{wrapfig} % Allows in-line images such as the example fish picture
+%\usepackage{wrapfig} % Allows in-line images such as the example fish picture
 
 \usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
 
+\usepackage{hyperref}
 \usepackage{pdfpages}
 \usepackage[toc,page]{appendix}
 
@@ -92,11 +95,7 @@ Assoc. Prof. Lei \textsc{Feng} % Supervisor's Name
 
 \end{titlepage}
 
-%----------------------------------------------------------------------------------------
-%	TABLE OF CONTENTS
-%----------------------------------------------------------------------------------------
 
-\tableofcontents % Include a table of contents
 
 \newpage % Begins the essay on a new page instead of on the same page as the table of contents 
 
@@ -120,23 +119,16 @@ Assoc. Prof. Lei \textsc{Feng} % Supervisor's Name
 
 %------------------------------------------------
 
-\section{Conclusion} % Major section
+\section{Risk Analysis} % Major section
 
-\lipsum[12-13]
+\input{./Contents/RiskAna.tex}
 
 %----------------------------------------------------------------------------------------
 %	BIBLIOGRAPHY
 %----------------------------------------------------------------------------------------
 
-\begin{thebibliography}{99} % Bibliography - this is intentionally simple in this template
-
-\bibitem[Figueredo and Wolf, 2009]{Figueredo:2009dg}
-Figueredo, A.~J. and Wolf, P. S.~A. (2009).
-\newblock Assortative pairing and life history strategy - a cross-cultural
-  study.
-\newblock {\em Human Nature}, 20:317--330.
- 
-\end{thebibliography}
+\bibliographystyle{ieeetr}
+\bibliography{./Contents/References/references}
 
 \newpage
 
