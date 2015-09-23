@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.21)  23 SEP 2015 15:41
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.21)  23 SEP 2015 16:34
 entering extended mode
 **MF2075_IDIOM_Group_Plan_Report.tex
 
@@ -647,15 +647,37 @@ File: Pictures/riskmatrix.png Graphic file (type png)
 <use Pictures/riskmatrix.png>
 Package pdftex.def Info: Pictures/riskmatrix.png used on input line 17.
 (pdftex.def)             Requested size: 241.65222pt x 72.2698pt.
- [4 <D:/word_master/S3P1/MF2075 Engineering Design Research Project/ResearchPro
-jectConvex/Project Plan/Pictures/riskmatrix.png>]
+
+
+! Package inputenc Error: Unicode char \u8:： not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...and yellow area is below tolerance level }
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char \u8:： not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...and yellow area is below tolerance level }
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[4 <D:/word_master/S3P1/MF2075 Engineering Design Research Project/ResearchProj
+ectConvex/Project Plan/Pictures/riskmatrix.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \hbox (11.2059pt too wide) in paragraph at lines 89--101
- [][] 
- []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -729,10 +751,10 @@ changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 163.
  ) 
 Here is how much of TeX's memory you used:
- 7695 strings out of 493921
- 113604 string characters out of 3147267
- 325358 words of memory out of 3000000
- 10836 multiletter control sequences out of 15000+200000
+ 7696 strings out of 493921
+ 113610 string characters out of 3147267
+ 325476 words of memory out of 3000000
+ 10837 multiletter control sequences out of 15000+200000
  10398 words of font info for 36 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  38i,21n,42p,851b,483s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -741,7 +763,7 @@ ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><D:/Program F
 iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on MF2075_IDIOM_Group_Plan_Report.pdf (11 pages, 268237 bytes).
+Output written on MF2075_IDIOM_Group_Plan_Report.pdf (11 pages, 268431 bytes).
 PDF statistics:
  171 PDF objects out of 1000 (max. 8388607)
  39 named destinations out of 1000 (max. 500000)
