@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.21)  22 SEP 2015 23:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.21)  23 SEP 2015 15:41
 entering extended mode
 **MF2075_IDIOM_Group_Plan_Report.tex
 
@@ -509,22 +509,28 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \c@nlinenum=\count111
 \TeXr@lab=\toks23
 )
+("D:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen123
+)
+("D:\Program Files\MiKTeX 2.9\tex\latex\placeins\placeins.sty"
+Package: placeins 2005/04/18  v 2.2
+)
 ("D:\word_master\S3P1\MF2075 Engineering Design Research Project\ResearchProjec
 tConvex\Project Plan\MF2075_IDIOM_Group_Plan_Report.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -563,19 +569,19 @@ LaTeX Font Info:    ... okay on input line 46.
 ("D:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count112
-\scratchdimen=\dimen123
+\scratchdimen=\dimen124
 \scratchbox=\box31
 \nofMPsegments=\count113
 \nofMParguments=\count114
 \everyMPshowfont=\toks24
 \MPscratchCnt=\count115
-\MPscratchDim=\dimen124
+\MPscratchDim=\dimen125
 \MPnumerator=\count116
 \makeMPintoPDFobject=\count117
 \everyMPtoPDFconversion=\toks25
 )
 \AtBeginShipoutBox=\box32
-Package hyperref Info: Link coloring OFF on input line 46.
+Package hyperref Info: Link coloring OFF on input line 48.
  ("D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -584,9 +590,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count118
 )
-LaTeX Info: Redefining \ref on input line 46.
-LaTeX Info: Redefining \pageref on input line 46.
-LaTeX Info: Redefining \nameref on input line 46.
+LaTeX Info: Redefining \ref on input line 48.
+LaTeX Info: Redefining \pageref on input line 48.
+LaTeX Info: Redefining \nameref on input line 48.
 
 ("D:\word_master\S3P1\MF2075 Engineering Design Research Project\ResearchProjec
 tConvex\Project Plan\MF2075_IDIOM_Group_Plan_Report.out")
@@ -594,16 +600,16 @@ tConvex\Project Plan\MF2075_IDIOM_Group_Plan_Report.out")
 tConvex\Project Plan\MF2075_IDIOM_Group_Plan_Report.out")
 \@outlinefile=\write3
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 74.
+(Font)              <12> on input line 76.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 74.
+(Font)              <8> on input line 76.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 74.
+(Font)              <6> on input line 76.
 
 <Pictures/cover.jpg, id=51, 396.7322pt x 281.55188pt>
 File: Pictures/cover.jpg Graphic file (type jpg)
  <use Pictures/cover.jpg>
-Package pdftex.def Info: Pictures/cover.jpg used on input line 86.
+Package pdftex.def Info: Pictures/cover.jpg used on input line 88.
 (pdftex.def)             Requested size: 292.77629pt x 207.78232pt.
 
 [1
@@ -619,96 +625,125 @@ ination with the same identifier (name{page.1}) has been already used, duplicat
 e ignored
 <to be read again> 
                    \relax 
-l.8 
-     [1] [2])
+l.10 
+      [1] [2]
+("D:\word_master\S3P1\MF2075 Engineering Design Research Project\ResearchProjec
+tConvex\Project Plan\Contents\ResearchQuestion.tex"
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 4.
+
+("D:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
+))
+("D:\word_master\S3P1\MF2075 Engineering Design Research Project\ResearchProjec
+tConvex\Project Plan\Contents\Method.tex") [3]
 ("D:\word_master\S3P1\MF2075 Engineering Design Research Project\ResearchProjec
 tConvex\Project Plan\Contents\RiskAna.tex"
-<Pictures/riskmatrix.png, id=84, 241.65282pt x 72.27pt>
+<Pictures/riskmatrix.png, id=92, 241.65282pt x 72.27pt>
 File: Pictures/riskmatrix.png Graphic file (type png)
 
 <use Pictures/riskmatrix.png>
 Package pdftex.def Info: Pictures/riskmatrix.png used on input line 17.
 (pdftex.def)             Requested size: 241.65222pt x 72.2698pt.
- [3 <D:/word_master/S3P1/MF2075 Engineering Design Research Project/ResearchPro
-jectConvex/Project Plan/Pictures/riskmatrix.png>])
+ [4 <D:/word_master/S3P1/MF2075 Engineering Design Research Project/ResearchPro
+jectConvex/Project Plan/Pictures/riskmatrix.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (11.2059pt too wide) in paragraph at lines 89--101
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5] [6] [7])
 ("D:\word_master\S3P1\MF2075 Engineering Design Research Project\ResearchProjec
-tConvex\Project Plan\MF2075_IDIOM_Group_Plan_Report.bbl" [4]) [5]
-<./Contents/timeplan.pdf, id=106, 597.23125pt x 845.1575pt>
+tConvex\Project Plan\MF2075_IDIOM_Group_Plan_Report.bbl") [8
+
+]
+<./Contents/timeplan.pdf, id=126, 597.23125pt x 845.1575pt>
 File: ./Contents/timeplan.pdf Graphic file (type pdf)
 
 <use ./Contents/timeplan.pdf>
-Package pdftex.def Info: ./Contents/timeplan.pdf used on input line 139.
+Package pdftex.def Info: ./Contents/timeplan.pdf used on input line 159.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: ./Contents/timeplan.pdf Graphic file (type pdf)
  <use ./Contents/timeplan.pdf>
-Package pdftex.def Info: ./Contents/timeplan.pdf used on input line 139.
+Package pdftex.def Info: ./Contents/timeplan.pdf used on input line 159.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
- [6]
-<./Contents/timeplan.pdf, id=114, page=1, 597.23125pt x 845.1575pt>
+ [9]
+<./Contents/timeplan.pdf, id=133, page=1, 597.23125pt x 845.1575pt>
 File: ./Contents/timeplan.pdf Graphic file (type pdf)
 
 <use ./Contents/timeplan.pdf, page 1>
-Package pdftex.def Info: ./Contents/timeplan.pdf, page1 used on input line 139.
+Package pdftex.def Info: ./Contents/timeplan.pdf, page1 used on input line 159.
 
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: ./Contents/timeplan.pdf Graphic file (type pdf)
  <use ./Contents/timeplan.pdf, page 1>
-Package pdftex.def Info: ./Contents/timeplan.pdf, page1 used on input line 139.
+Package pdftex.def Info: ./Contents/timeplan.pdf, page1 used on input line 159.
 
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: ./Contents/timeplan.pdf Graphic file (type pdf)
 
 <use ./Contents/timeplan.pdf, page 1>
-Package pdftex.def Info: ./Contents/timeplan.pdf, page1 used on input line 139.
+Package pdftex.def Info: ./Contents/timeplan.pdf, page1 used on input line 159.
 
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: ./Contents/timeplan.pdf Graphic file (type pdf)
  <use ./Contents/timeplan.pdf, page 1>
-Package pdftex.def Info: ./Contents/timeplan.pdf, page1 used on input line 139.
+Package pdftex.def Info: ./Contents/timeplan.pdf, page1 used on input line 159.
 
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 File: ./Contents/timeplan.pdf Graphic file (type pdf)
 
 <use ./Contents/timeplan.pdf, page 1>
-Package pdftex.def Info: ./Contents/timeplan.pdf, page1 used on input line 139.
+Package pdftex.def Info: ./Contents/timeplan.pdf, page1 used on input line 159.
 
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
- [7 <D:/word_master/S3P1/MF2075 Engineering Design Research Project/ResearchPro
-jectConvex/Project Plan/Contents/timeplan.pdf, page is rotated 270 degrees
+ [10 <D:/word_master/S3P1/MF2075 Engineering Design Research Project/ResearchPr
+ojectConvex/Project Plan/Contents/timeplan.pdf, page is rotated 270 degrees
 
 pdfTeX warning: pdflatex (file D:/word_master/S3P1/MF2075 Engineering Design Re
 search Project/ResearchProjectConvex/Project Plan/Contents/timeplan.pdf): PDF i
 nclusion: invalid other resource which is no dict (key 'ProcSets', type <array>
 ); ignored.
 >]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 143.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
 
 ("D:\word_master\S3P1\MF2075 Engineering Design Research Project\ResearchProjec
 tConvex\Project Plan\MF2075_IDIOM_Group_Plan_Report.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 143.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 143.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 163.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 163.
 Package rerunfilecheck Info: File `MF2075_IDIOM_Group_Plan_Report.out' has not 
 changed.
-(rerunfilecheck)             Checksum: F8B2679D61E674A570570AEF816BAC5D;808.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 143.
+(rerunfilecheck)             Checksum: 1EB626390580C5CCCB5726CDE04BE4C3;803.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 163.
  ) 
 Here is how much of TeX's memory you used:
- 7633 strings out of 493921
- 112108 string characters out of 3147267
- 315174 words of memory out of 3000000
- 10796 multiletter control sequences out of 15000+200000
+ 7695 strings out of 493921
+ 113604 string characters out of 3147267
+ 325358 words of memory out of 3000000
+ 10836 multiletter control sequences out of 15000+200000
  10398 words of font info for 36 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 38i,18n,42p,704b,483s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,21n,42p,851b,483s stack positions out of 5000i,500n,10000p,200000b,50000s
 <D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><D:/Program F
 iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on MF2075_IDIOM_Group_Plan_Report.pdf (8 pages, 259314 bytes).
+Output written on MF2075_IDIOM_Group_Plan_Report.pdf (11 pages, 268237 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
+ 171 PDF objects out of 1000 (max. 8388607)
+ 39 named destinations out of 1000 (max. 500000)
  127 words of extra memory for PDF output out of 10000 (max. 10000000)
 
