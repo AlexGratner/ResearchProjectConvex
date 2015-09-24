@@ -38,6 +38,7 @@
 \usepackage{color}
 \usepackage{multirow}
 \usepackage{placeins}
+\usepackage{cleveref}
 
 \linespread{1.2} % Line spacing
 
@@ -128,6 +129,12 @@ Assoc. Prof. Lei \textsc{Feng} % Supervisor's Name
 %----------------------------------------------------------------------------------------
 \section{Method}
 \input{./Contents/Method.tex}
+\newpage
+%----------------------------------------------------------------------------------------
+%	Disposition
+%----------------------------------------------------------------------------------------
+\section{Disposition}
+\input{./Contents/Disposition.tex}
 
 %----------------------------------------------------------------------------------------
 %	Timeplan
@@ -155,9 +162,11 @@ Assoc. Prof. Lei \textsc{Feng} % Supervisor's Name
 
 \newpage
 
-\begin{appendices}
+%\begin{appendices}
+\section*{Appendix A}\label{App}
+\input{./Contents/AppenA.tex}
 \includepdf[pages={1}]{./Contents/timeplan.pdf}
-\end{appendices}
+%\end{appendices}
 %----------------------------------------------------------------------------------------
 
 \end{document}
