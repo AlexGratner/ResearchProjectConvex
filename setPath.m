@@ -1,0 +1,2 @@
+javaaddpath('/home/alexander/Documents/ResearchProject/DiDi/Includes/External/jgraphx/lib/jgraphx.jar');
+javaaddpath('/home/alexander/Documents/ResearchProject/DiDi/Includes/External/customjgraphx/customjgraphx/dist/customjgraphx.jar');
