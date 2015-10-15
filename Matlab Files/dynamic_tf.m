@@ -9,7 +9,7 @@ d = 20;
 jl = 1.1;
 jg = 0;
 jm = inertia_ratio * Cmj * lm * rm^4;
-js = kl*steel_den*ll^2/75e9;;
+js = kl*steel_den*ll^2/75e9;
 kt=0.182;
 omega = 2*pi*fre;
 
