@@ -40,3 +40,5 @@ cvx_begin gp
 %         [-150 -150 -150 -150]
 
 cvx_end
+
+de_factor = dimension (0.182, r, l, ll, kl, n, poles(1), poles(2), poles(3), poles(4), t, pos)
