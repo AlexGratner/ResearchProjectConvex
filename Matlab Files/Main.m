@@ -1,7 +1,5 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Main file for running static and dynamic convex optimizations on motor %
-% and planetary gear                                                     %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Main file for running static and dynamic convex optimizations on motor 
+% and planetary gear                                                     
 
 clear all; close all; clc;
 dataFile;           %Load data       

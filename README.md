@@ -1,2 +1,0 @@
-# ResearchProjectConvex
-Convex Optimization Rules

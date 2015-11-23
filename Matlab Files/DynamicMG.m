@@ -11,7 +11,7 @@ t_delay = input('Expecting positive');
 
 cvx_begin gp
     variables l r n rg1 bg1 n1 rg2 bg2 n2 kl rl ll
-    minimize( pi * power(r,2) * l + pi * power(rg1,2) * 1.5 * bg1 + pi * power(rg2,2) *1.5 *bg2 + pi * power(rl,2) * ll)
+    minimize( pi * power(r,2) * l + pi * power(rg1,2) * 1.5 * bg1 + pi * power(rg2,2) *1.5 *bg2 + pi * power(rl,2) * ll) 
     subject to
         %Motor
         inertia_ratio^2/Jload^2*Cmj^2*Trms^2 * power(r,3)*power(n,2) + 2*inertia_ratio/Jload*Cmj*(Trms^2) * power(r,-1)*power(l,-1)+Trms^2*power(n,-2)*power(l,-2)*power(r,-5) <= Cm^2;
@@ -28,7 +28,6 @@ cvx_begin gp
         1/20 <= bg2/rg2 <= 4;
         3 <= n1;
         3 <= n2;
-%         0.03 <= rg1 <= 0.1;
         n1*n2*power(n,-1) ==1;
         
         % Shaft
@@ -36,9 +35,8 @@ cvx_begin gp
         ub_delay - t_delay <= damp*power(kl,-1);
         kl == G*pi/2*power(rl,4)*power(ll,-1);
         0.05 <= ll;
-
+        
 %         [-150 -150 -150 -150]
-
 cvx_end
 
 de_factor = dimension (0.182, r, l, ll, kl, n, poles(1), poles(2), poles(3), poles(4), t, pos)
