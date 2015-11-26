@@ -9,7 +9,10 @@
 \usepackage{amsmath}
 \usepackage{array}
 \usepackage{url}
+\usepackage{cite}
 
+%\usepackage{natbib}
+\usepackage{dtklogos} % for BibTeX stylized logo
 
 % correct bad hyphenation here
 \hyphenation{op-tical net-works semi-conduc-tor}
@@ -35,7 +38,18 @@
 %%%%%%%%%%%%%% begin introduction %%%%%%%%%
 \section{Introduction}
 \input{./Contents/Introduction.tex}
+VIMTESTLOLOLOLOL
 %%%%%%%%%%%%%% end introduction %%%%%%%%%%%
+
+%%%%%%%%%%%%%% begin Previous work %%%%%%%%%
+\section{Previous Work}
+\input{./Contents/Previous_work.tex}
+%%%%%%%%%%%%%% end Previous work %%%%%%%%%%%
+
+%%%%%%%%%%%%%% begin Optimization approach %%%%%%%%%
+\section{Optimization Approach}
+\input{./Contents/Optimization_approach.tex}
+%%%%%%%%%%%%%% end Optimization approach %%%%%%%%%%%
 
 %%%%%%%%%%%%%% begin conclusion %%%%%%%%%%%
 \section{Conclusion}
@@ -47,14 +61,19 @@
 %%%%%%%%%%%%%% end acknowlegement %%%%%%%%%
 
 %%%%%%%%%%%%%% begin acknowlegement %%%%%%%
-\begin{thebibliography}{1}
 
-\bibitem{IEEEhowto:kopka}
-H.~Kopka and P.~W. Daly, \emph{A Guide to \LaTeX}, 3rd~ed.\hskip 1em plus
-  0.5em minus 0.4em\relax Harlow, England: Addison-Wesley, 1999.
 
-\end{thebibliography}
+%\bibitem{IEEEhowto:kopka}
+%H.~Kopka and P.~W. Daly, \emph{A Guide to \LaTeX}, 3rd~ed.\hskip 1em plus
+ % 0.5em minus 0.4em\relax Harlow, England: Addison-Wesley, 1999.
+
+%\end{thebibliography}
 %%%%%%%%%%%%%% end acknowlegement %%%%%%%%%
+
+%\nocite{*}
+\bibliographystyle{IEEEtran}
+\bibliography{Bibliography}
+
 
 \end{document}
 
