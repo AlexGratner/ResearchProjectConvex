@@ -16,7 +16,7 @@ load('roosload.mat');
 
 syms Ka;
 % Ka = 20/1.8e4;
-Ts = 0.001;
+Ts = 0.01;
 dotnum = (length(t)-1)/t(length(t));
 x1=0;
 x2=0;

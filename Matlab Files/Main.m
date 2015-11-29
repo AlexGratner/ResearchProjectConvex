@@ -10,7 +10,7 @@ selection1 = input('Do you want to perform both a static and dynamic optimizatio
 if(selection1 == 'y') %Dynamic optimization on motor and gearbox
     DynamicMG;
 else                  %Static optimization on motor, gearbox or both
-    selection2 = input('Do you want to optimize for motor, planetary gear or both? (m/g/b)');
+    selection2 = input('Do you want to optimize for motor, planetary gear or both? (m/g/b)','s');
     if(selection2 == 'm')
         Motor;
     elseif(selection2 == 'g')

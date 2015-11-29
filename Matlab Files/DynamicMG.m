@@ -1,4 +1,4 @@
-in_for_pole = 'Where are the poles located? (ex. [10 10 10 10])';
+in_for_pole = 'Where are the poles located? (ex. [-10 -10 -10 -10])';
 poles = -input(in_for_pole);
 
 lb_k = damp*min(poles);                                                     %Lower bound for k
@@ -7,7 +7,7 @@ lb_delay = ub_delay - damp/lb_k;                                            %Low
 
 in_for_delay = ['What is the reaction delay time expected (should be in between of ',num2str(lb_delay), ' and ' num2str(ub_delay), ')? '];
 disp(in_for_delay);
-t_delay = input('Expecting positive');
+t_delay = input('Expecting positive ');
 
 cvx_begin gp
     variables l r n rg1 bg1 n1 rg2 bg2 n2 kl rl ll
