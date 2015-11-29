@@ -9,7 +9,7 @@
 \usepackage{amsmath}
 \usepackage{array}
 \usepackage{url}
-\usepackage{cite}
+\usepackage[noadjust]{cite}
 
 %\usepackage{natbib}
 \usepackage{dtklogos} % for BibTeX stylized logo
@@ -38,7 +38,7 @@
 %%%%%%%%%%%%%% begin introduction %%%%%%%%%
 \section{Introduction}
 \input{./Contents/Introduction.tex}
-VIMTESTLOLOLOLOL
+VIMTESTLOLOLOLOL \cite{Mechatronics}
 %%%%%%%%%%%%%% end introduction %%%%%%%%%%%
 
 %%%%%%%%%%%%%% begin Previous work %%%%%%%%%
@@ -71,9 +71,8 @@ VIMTESTLOLOLOLOL
 %%%%%%%%%%%%%% end acknowlegement %%%%%%%%%
 
 %\nocite{*}
-\bibliographystyle{IEEEtran}
-\bibliography{Bibliography}
-
+\bibliographystyle{ieeetran}
+\bibliography{./Contents/References/references}
 
 \end{document}
 

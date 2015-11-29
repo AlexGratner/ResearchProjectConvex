@@ -1,0 +1,18 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdftex 2015.5.11)  17 MAY 2015 11:41
+entering extended mode
+**E:/Dropbox/Farkostteknik*KTH/hk2015_pixelgrinder/projectReport/Content/Refere
+nces/references.bib
+
+("E:/Dropbox/Farkostteknik KTH/hk2015_pixelgrinder/projectReport/Content/Refere
+nces/references.bib"
+! Undefined control sequence.
+l.51 howpublished = {\url
+                         {http://www.cgarena.com/freestuff/tutorials/max/ies...
+
+? 
+! Emergency stop.
+l.51 howpublished = {\url
+                         {http://www.cgarena.com/freestuff/tutorials/max/ies...
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
